@@ -1,0 +1,40 @@
+"""
+Config file for list of file extensions and folder name they are supposed to go into.
+"""
+
+
+EXTENSION_CONFIG = {
+    '.msi': 'Programs',
+     '.pkg': 'Programs',
+     '.exe': 'Programs',
+     '.dmg': 'Programs',
+     '.rar': 'Compressed',
+     '.zip': 'Compressed',
+     '.pptx': 'Documents',
+     '.txt': 'Documents',
+     '.ppt': 'Documents',
+     '.pdf': 'Documents',
+     '.xlsx': 'Documents',
+     '.xls': 'Documents',
+     '.doc': 'Documents',
+     '.docx': 'Documents',
+     '.wav': 'Music',
+     '.mp3': 'Music',
+     '.mp4': 'Video',
+     '.mkv': 'Video',
+     '.gif': 'Pictures',
+     '.jpg': 'Pictures',
+     '.jpeg': 'Pictures',
+     '.png': 'Pictures',
+     '.tiff': 'Pictures',
+     '.svg': 'Pictures',
+     '.tif': 'Pictures',
+     '.c': 'Programming',
+     '.cpp': 'Programming',
+     '.js': 'Programming',
+     '.html': 'Programming',
+     '.cs': 'Programming',
+     '.java': 'Programming',
+     '.py': 'Programming',
+     '.json': 'Programming',
+}
