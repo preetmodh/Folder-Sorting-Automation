@@ -26,7 +26,7 @@ To have the script run automatically, configure it in Windows Task Scheduler acc
 ### 2.) then search Task Schedular in windows search and open it.
 ### 3.) after opening click on create task on the right side
 <div>
-<img  src="https://github.com/preetmodh/Folder-Sorting-Automation/blob/main/task_schedular_images/task schedular.JPG?raw=true" alt="Logo">
+<img  src="https://github.com/preetmodh/Folder-Sorting-Automation/blob/main/task_schedular_images/task%20schedular.jpg?raw=true" alt="Logo">
 </div>
 <br />
 
