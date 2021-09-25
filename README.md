@@ -17,7 +17,6 @@ To run the script:
 $ python folder_sorter.py
 ```
 
-To have the script run automatically, configure it in Windows Task Scheduler according to [this tutorial.](https://datatofish.com/python-script-windows-scheduler/)
 
 ## To Automate on start-up
 #### 1.) run the create_bat_file(``` python create_bat_file.py ```) , it will create a ``` python_script.bat ``` file.
