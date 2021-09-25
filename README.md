@@ -26,31 +26,42 @@ To have the script run automatically, configure it in Windows Task Scheduler acc
 #### 2.) then search Task Schedular in windows search and open it.
 #### 3.) after opening click on create task on the right side
 <div>
-<img  src="https://github.com/preetmodh/Folder-Sorting-Automation/blob/main/task_schedular_images/task%20schedular.jpg?raw=true" alt="Logo">
+<p align="center">
+<img width="400" src="https://github.com/preetmodh/Folder-Sorting-Automation/blob/main/task_schedular_images/task%20schedular.jpg?raw=true" alt="Logo">
+</p>
 </div>
 <br />
 
+
 #### 4.) in general tab type the name of the task, it can be any name.
 <div>
-<img   src="https://github.com/preetmodh/Folder-Sorting-Automation/blob/main/task_schedular_images/name.JPG?raw=true" alt="Logo">
+<p align="center">
+<img  width="400" src="https://github.com/preetmodh/Folder-Sorting-Automation/blob/main/task_schedular_images/name.JPG?raw=true" alt="Logo">
+</p>
 </div>
 <br />
 
 #### 5.) in trigger tab select begin task:at startup, and in advanced settings delay task for 30 seconds.
 <div>
-<img   src="https://github.com/preetmodh/Folder-Sorting-Automation/blob/main/task_schedular_images/trigger.JPG?raw=true" alt="Logo">
+<p align="center">
+<img  width="400" src="https://github.com/preetmodh/Folder-Sorting-Automation/blob/main/task_schedular_images/trigger.JPG?raw=true" alt="Logo">
+</p>
 </div>
 <br />
 
 #### 6.) in action tab select action as start a program and choose the python_script.bat file that was created as program/script.
 <div>
-<img   src="https://github.com/preetmodh/Folder-Sorting-Automation/blob/main/task_schedular_images/action.JPG?raw=true" alt="Logo">
+<p align="center">
+<img width="400"  src="https://github.com/preetmodh/Folder-Sorting-Automation/blob/main/task_schedular_images/action.JPG?raw=true" alt="Logo">
+</p>
 </div>
 <br />
 
 #### 7.) in conditions tab uncheck all the checboxes given
 <div>
-<img   src="https://github.com/preetmodh/Folder-Sorting-Automation/blob/main/task_schedular_images/conditions.JPG?raw=true" alt="Logo">
+<p align="center">
+<img   width="400"src="https://github.com/preetmodh/Folder-Sorting-Automation/blob/main/task_schedular_images/conditions.JPG?raw=true" alt="Logo">
+</p>
 </div>
 <br />
 
