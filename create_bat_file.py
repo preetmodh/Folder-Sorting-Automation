@@ -1,3 +1,7 @@
+"""
+This script creates a batch file for running the python script.
+"""
+
 import sys
 from pathlib import Path
 
